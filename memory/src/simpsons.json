@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "name": "Homer Simpson",
+        "image": "https://mcgarnagle.files.wordpress.com/2012/01/vlcsnap-00105.jpg",
+        "data": false
+    },
+    {
+        "id": 2,
+        "name": "Marge Simpson",
+        "image": "http://junkee.com/wp-content/uploads/2017/06/movie-hairstyles-simpsons-movie.jpg",
+        "data": false
+    },
+    {
+        "id": 3,
+        "name": "Bart Simpson",
+        "image": "http://images.mentalfloss.com/sites/default/files/styles/insert_main_wide_image/public/bartsimpson.jpg",
+        "data": false
+    },
+    {
+        "id": 4,
+        "name": "Lisa Simpson",
+        "image": "https://img.buzzfeed.com/buzzfeed-static/static/2014-07/25/10/campaign_images/webdr02/29-signs-youre-the-lisa-simpson-of-your-family-2-11862-1406297983-17_dblbig.jpg",
+        "data": false
+    },
+    {
+        "id": 5,
+        "name": "Maggie Simpson",
+        "image": "http://images6.fanpop.com/image/photos/34400000/marge-simpson-maggie-simpson-34401350-500-375.png",
+        "data": false
+    },
+    {
+        "id": 6,
+        "name": "Abraham Simpson",
+        "image": "https://pbs.twimg.com/media/Cks4T3EUoAAUrit.jpg",
+        "data": false
+    },
+    {
+        "id": 7,
+        "name": "Patty Bouvier",
+        "image": "https://pbs.twimg.com/media/B_64XCuWcAAECFz.jpg",
+        "data": false
+    },
+    {
+        "id": 8,
+        "name": "Selma Bouvier",
+        "image": "https://media.globaltv.com/uploadedimages/pages/shows/the_simpsons/the_simpsons_smartforms/selma-jub-jub.jpg",
+        "data": false
+    },
+    {
+        "id": 9,
+        "name": "Moe Szyslak",
+        "image": "http://hypefeast.com/wp-content/uploads/2014/08/d%C3%BCff.jpg",
+        "data": false
+    },
+    {
+        "id": 10,
+        "name": "Barney Gumble",
+        "image": "http://29odkrngwwiml6xqsb8nbfh.wpengine.netdna-cdn.com/wp-content/uploads/2015/07/Barney.jpg",
+        "data": false
+    },
+    {
+        "id": 11,
+        "name": "Monty Burns",
+        "image": "https://i.ytimg.com/vi/YKUOB8MN4Kc/hqdefault.jpg",
+        "data": false
+    },
+    {
+        "id": 12,
+        "name": "Waylon Smithers",
+        "image": "https://images.moviepilot.com/images/c_limit,q_auto:good,w_600/p8nrqqx89eyhe0w5jp9u/mr-smithers-will-finally-step-out-of-his-malibu-stacy-closet-in-the-next-season-of-the-simpsons.jpg",
+        "data": false
+    },
+    {
+        "id": 13,
+        "name": "Krusty the Clown",
+        "image": "http://i.huffpost.com/gen/1935800/thumbs/o-KRUSTY-THE-CLOWN-570.jpg?6",
+        "data": false
+    },
+    {
+        "id": 14,
+        "name": "Troy McClure",
+        "image": "https://frinkiac.com/img/S07E05/693842.jpg",
+        "data": false
+    },
+    {
+        "id": 15,
+        "name": "Lionel Hutz",
+        "image": "https://i.ytimg.com/vi/5jhINEffV-o/hqdefault.jpg",
+        "data": false
+    },
+    {
+        "id": 16,
+        "name": "The Sea Captain",
+        "image": "https://i.pinimg.com/736x/b9/20/0b/b9200b0a77278e29279ad123dd34fc91--sea-captain-los-simpsons.jpg",
+        "data": false
+    },
+    {
+        "id": 17,
+        "name": "Sideshow Bob",
+        "image": "https://vignette.wikia.nocookie.net/simpsons/images/f/f1/Sideshow_Bob%27s_Last_Gleaming_63.JPG/revision/latest?cb=20130726232328",
+        "data": false
+    },
+    {
+        "id": 18,
+        "name": "Comic Book Guy",
+        "image": "https://i.imgflip.com/1e3f8q.jpg",
+        "data": false
+    },
+    {
+        "id": 19,
+        "name": "Chief Wiggum",
+        "image": "https://i.imgur.com/IdvIo7K.png",
+        "data": false
+    },
+    {
+        "id": 20,
+        "name": "Ned Flanders",
+        "image": "http://blogs.discovermagazine.com/discoblog/files/2013/04/leftorium.jpg",
+        "data": false
+    },
+    {
+        "id": 21,
+        "name": "Lenny Leonard",
+        "image": "https://memegenerator.net/img/images/600x600/14309428/a-oc-lenny.jpg",
+        "data": false
+    },
+    {
+        "id": 22,
+        "name": "Carl Carlson",
+        "image": "https://pbs.twimg.com/profile_images/521094292937248768/YhkuX-VX_400x400.jpeg",
+        "data": false
+    },
+    {
+        "id": 23,
+        "name": "Groundskeeper Willy",
+        "image": "https://i.ytimg.com/vi/0HI22bUV4QE/hqdefault.jpg",
+        "data": false
+    },
+    {
+        "id": 24,
+        "name": "Apu Nahasapeemapetilon",
+        "image": "https://2.bp.blogspot.com/-WOta4QTqK-o/WYU6P-yXS7I/AAAAAAAAG4Q/7qa7VyYfTUo-cMJ5VXi4LkbtaWcPH1KkgCLcBGAs/s1600/theproblemwithapu01.jpg",
+        "data": false
+    }
+]
