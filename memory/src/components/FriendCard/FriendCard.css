@@ -1,12 +1,19 @@
 .card {
   background: #fff;
   border-radius: 2px;
-  height: 150px;
+  height: 144px;
   margin: 1rem;
   position: relative;
-  width: 150px;
-  box-shadow: 0 5px 8px rgba(8, 160, 248, 0.726), 2px 7px 10px rgb(193, 233, 17);
+  width: 144px;
+  box-shadow: 2px 7px 7px rgb(1, 8, 12), -2px 5px 5px rgb(1, 8, 12);  
+  border-radius: 4px;  
+  border: 4px ridge rgb(9, 78, 116);
   text-align: left;
+}
+
+.card :hover {
+  z-index: 4;
+  box-shadow: 10px 24px 24px rgb(59, 59, 59), -10px 25px 25px rgb(59, 59, 59);  
 }
 
 .card > .img-container {

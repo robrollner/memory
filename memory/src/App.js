@@ -8,8 +8,10 @@ import simpsons from "./simpsons.json";
 
 const App = () => (
   <Wrapper>
-    <Title>The Simpsons</Title>
-    {simpsons.map(simpson => {
+  <Title>The Simpsons
+  
+    </Title>
+  {simpsons.map(simpson => {
       return <FriendCard {...simpson} />;
     })}
 
